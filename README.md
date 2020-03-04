@@ -26,7 +26,7 @@ Notes:
 * Created a CSV of all data retrieved and png images for each scatter plot.
 * Wrote description of three observable trends based on the data.
 
-## Data Source :
+## Data Source:
 
 API from https://openweathermap.org/current
 

@@ -7,7 +7,7 @@ Created a Python script to visualize the weather of 500+ cities across the world
 [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api), and a little common sense to create a 
 representative model of weather across world cities.
 
-## My objective :
+## My objective:
 
 Build a series of scatter plots to showcase the following relationships:
 

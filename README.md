@@ -1,7 +1,7 @@
 ## WeatherPy Project
 ![Equator](Images/equatorsign.png)
 
-## Project Description :
+## Project Description:
 
 Created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, I utilized a 
 [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api), and a little common sense to create a 

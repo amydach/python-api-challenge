@@ -34,7 +34,7 @@ API from https://openweathermap.org/current
 
 https://github.com/amydach/python-api-challenge
 
-## Dependencies :
+## Dependencies:
 
 Jupyter notebook,
 Matplotlib,

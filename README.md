@@ -30,7 +30,7 @@ Notes:
 
 API from https://openweathermap.org/current
 
-## Link to my Github repo :
+## Link to my Github repo:
 
 https://github.com/amydach/python-api-challenge
 

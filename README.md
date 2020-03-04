@@ -16,7 +16,7 @@ Build a series of scatter plots to showcase the following relationships:
 * Cloudiness (%) vs. Latitude
 * Wind Speed (mph) vs. Latitude
 
-Notes :
+Notes:
 
 * Included a written description of three observable trends based on the data.
 * Included Plot Titles (with date of analysis) and Axes Labels.
